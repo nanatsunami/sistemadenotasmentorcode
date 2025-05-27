@@ -1,1 +1,6 @@
-"# Projeto MentorCode" 
+"Projeto Sistema de notas - MentorCode" 
+"Permite até 100 registros"
+"Recebe curso, período, RGM, nome do aluno, nota A1, nota A2, nota AF (se necessário)"
+"Realiza o cálculo da média (A1+A2) e caso não atinja a nota mínima, solicita a nota de AF que substituirá a menor das duas notas e o sistema realizará novamente o cálculo com os novos valores"
+"Permite a edição de RGM (contanto que não seja um RGM existente), do nome, da A1, A2, AF (se tiver) e realiza novamente o cálculo"
+"Permite a "exclusão" de registros por RGM"
